@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aleurb
+- 👋 Hi, I’m @aleurb. This is my github readme. There are more!
 - 👀 I’m interested in data analytics and machine learning for the benefit of society
 - 🌱 I’m currently learning data engineering and open to new opportunities
 - 💞️ I’m looking to collaborate on complex data projects and lead a data team
