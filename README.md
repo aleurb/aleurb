@@ -4,6 +4,8 @@
 - 💞️ looking to collaborate on complex data projects and lead a data team
 - 📫 more on LinkedIn: https://www.linkedin.com/in/aleksandrasurbonas
 
+A lot of my work is still under NDA and that public samples are in progress. Reach out for access or demo.
+
 <!---
 aleurb/aleurb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
